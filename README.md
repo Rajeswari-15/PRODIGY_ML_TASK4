@@ -19,7 +19,7 @@ The app allows users to upload an image of a hand gesture and predicts the gestu
 
 ## 📁 Dataset
 
-I used the **[LeapGestRecog Dataset](https://www.kaggle.com/datasets/kmader/leapgestrecog)** from Kaggle, which contains thousands of grayscale images of various hand gestures such as:
+I used the **[LeapGestRecog Dataset](https://www.kaggle.com/gti-upm/leapgestrecog)** from Kaggle, which contains thousands of grayscale images of various hand gestures such as:
 
 - Palm  
 - Fist  
